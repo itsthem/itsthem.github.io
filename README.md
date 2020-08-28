@@ -22,6 +22,7 @@ You can contact one of the people behind the project by email: contact (dot) zyg
 - [systemd/systemd](https://github.com/systemd/systemd/pull/16844)
 - [pulseaudio/pulseaudio](https://gitlab.freedesktop.org/pulseaudio/pulseaudio/-/merge_requests/358)
 - [lathiat/avahi](https://github.com/lathiat/avahi/pull/301)
+- [karelzak/util-linux](https://github.com/karelzak/util-linux/pull/1129)
 
 
 ### I want to send you death threats.
