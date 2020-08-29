@@ -4,7 +4,7 @@ We're a group of people dedicated to removing gendered language from open-source
 
 ### Why?
 
-1. It is important to be inclusive to non-binary people (and those who prefer different pronouns). [Research shows that it is possible to heavily decrease the suicide rates of transgender people just by letting them be in a supportive environment. To achieve this, calling them by their chosen name and using the pronouns they want to is needed.](https://www.childtrends.org/blog/research-shows-the-risk-of-misgendering-transgender-youth)
+1. It is important to be inclusive to non-binary people (and those who prefer different pronouns). Research shows that [it is possible to heavily decrease the suicide rates of transgender people just by letting them be in a supportive environment](https://www.childtrends.org/blog/research-shows-the-risk-of-misgendering-transgender-youth). To achieve this, calling them by their chosen name and using the pronouns they want to is needed.
 
 2. This quote will explain the rest:
 
