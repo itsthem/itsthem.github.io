@@ -16,7 +16,7 @@
 
 ## How can I help?
 
-<p align="justify">You can contact one of the people behind the project by email: contact (dot) zygoid (at) aleeas (dot) com.
+<p align="justify">You can contact one of the people behind the project by email: contact (dot) zygoid (at) aleeas (dot) com.</p>
 
 ## Projects we've edited:
 
