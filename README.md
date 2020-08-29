@@ -1,4 +1,4 @@
-# it's them
+![Banner](https://github.com/itsthem/itsthem.github.io/raw/main/its-them-short.png)
 
 ## Who are we?
 
