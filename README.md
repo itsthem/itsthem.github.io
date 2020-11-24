@@ -18,6 +18,12 @@
 
 <p align="justify">You can contact one of the people behind the project by email: contact (dot) zygoid (at) aleeas (dot) com.</p>
 
+## Oh, so you're these people who get mad over words like "blacklist"? I want to send you death threats!
+
+Nah, not really, to a certain extent. Non-inclusive pronouns in software (and other places) are a thing that someone can genuinely feel bad about. Keep in mind that all members of this organisation have different beliefs and opinions.
+
+As for the death threats, sure! We love to receive them. See our email address above.
+
 ## Projects we've edited:
 
 - [epoupon/fileshelter](https://github.com/epoupon/fileshelter/pull/37)
